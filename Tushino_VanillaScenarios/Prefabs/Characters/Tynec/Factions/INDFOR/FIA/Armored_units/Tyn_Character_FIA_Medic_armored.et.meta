@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{339DF43DEB324637}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_sharpshooter_morespace.et"
+ Name "{BAEE073B313B271E}Prefabs/Characters/Tynec/Factions/INDFOR/FIA/Tyn_Character_FIA_Medic_armored.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   EntityTemplateResourceClass PS5 : PC {
   }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass Xbox : PC {
   }
  }
 }
